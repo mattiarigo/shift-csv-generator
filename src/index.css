@@ -1,0 +1,7 @@
+.active-day {
+  background-color: lightblue !important;
+}
+
+.current-day {
+  background-color: lightgreen !important;
+}
